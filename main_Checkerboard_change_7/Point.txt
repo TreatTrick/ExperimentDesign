@@ -1,0 +1,3 @@
+you can use channel1-O1,channel2-Oz,channel3-O2,channel4-P3,channel5-Pz,channel6-P4
+
+54cm
